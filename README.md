@@ -1,7 +1,9 @@
 ### <h1> Hi there, this is Rümeysa! 👋 </h1>
-
-📂 I'm currently learning JavaScript! 
-🎓 I graduated from university in Spanish Language and Literature and I decided to learn coding!
+ 
+<ul>
+    <li>📂 I'm currently learning JavaScript! </li>
+    <li>🎓 I graduated from university in Spanish Language and Literature and I decided to learn coding!</li>
+</ul>
 
 
 
