@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, this is Rümeysa! 👋
+
+📂 I'm currently learning JavaScript! 
+🎓 I graduated from university in Spanish Language and Literature and I decided to learn coding!
+
+
+
+
 
 <!--
 **rumica/rumica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
