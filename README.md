@@ -1,6 +1,4 @@
 ### <h1> Hi there, this is Rümeysa! 👋 </h1>
-
-<center> **A new graduate who try to learn coding** </center>
  
 <ul>
     <li>📂 I'm currently learning JavaScript! </li> <br>
