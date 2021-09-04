@@ -2,7 +2,7 @@
  
 <ul>
     <li>📂 I'm currently learning JavaScript! </li> <br>
-    <li>🎓 I graduated from university in Spanish Language and Literature and I decided to learn coding!</li>
+    <li>🎓 I graduated from university and I decided to learn coding!</li>
 </ul>
 
 
