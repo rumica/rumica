@@ -1,7 +1,7 @@
 ### <h1> Hi there, this is Rümeysa! 👋 </h1>
  
 <ul>
-    <li>📂 I'm currently learning JavaScript! </li> <br>
+    <li>📂 I'm currently learning React.js! </li> <br>
     <li>🎓 I graduated from university and I decided to learn coding!</li>
 </ul>
 
